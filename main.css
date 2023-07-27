@@ -1,3 +1,7 @@
 h1 {
     font-family: sans-serif;
 }
+.viewer{
+    width:100%;
+    background-color: #efefef;
+}
